@@ -8,6 +8,7 @@ A curated list of web utilities.
 * [Flaticon](https://www.flaticon.com/) – Free vector icons
 * [Fontello](http://fontello.com/) – icon fonts generator
 * [Mobile-Friendly Test](https://search.google.com/test/mobile-friendly) – Google Search Console
+* [Online JavaScript Beautifier](https://beautifier.io/) – Beautify, unpack or deobfuscate JavaScript and HTML
 * [Pingdom Tools](https://tools.pingdom.com/) – Pingdom Website Speed Test
 * [rollup.js](https://rollupjs.org/repl) – ES6 modules go in...  bundle comes out
 * [ShellCheck](https://www.shellcheck.net/) – shell script analysis tool
