@@ -3,6 +3,7 @@ webtools
 A curated list of web utilities.
 
 * [bublé](https://buble.surge.sh/) – the blazing fast, batteries-included ES2015 compiler
+* [DirtyMarkup Formatter](https://www.10bestdesign.com/dirtymarkup/) – HTML, CSS & JavaScript Beautifier
 * [Down for Everyone or Just Me](https://downforeveryoneorjustme.com/) – Check if a website or site is down
 * [DNS Checker](https://dnschecker.org/) – DNS Check Propagation Tool
 * [Flaticon](https://www.flaticon.com/) – Free vector icons
