@@ -17,4 +17,5 @@ A curated list of web utilities.
 * [Subtle Patterns](https://www.toptal.com/designers/subtlepatterns/) – Free textures for your next web project
 * [SVGOMG](https://jakearchibald.github.io/svgomg/) – SVGO's Missing GUI
 * [TitleCase](https://titlecase.com/) – Text Conversion Solutions
+* [Uguu.se](https://uguu.se/) – Temp File Hosting
 * [Website Grader](https://website.grader.com/) – How Strong is Your Website?
