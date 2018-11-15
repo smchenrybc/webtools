@@ -9,6 +9,7 @@ A curated list of web utilities.
 * [Flaticon](https://www.flaticon.com/) – Free vector icons
 * [Fontello](http://fontello.com/) – icon fonts generator
 * [Free Online HTML Formatter](https://www.freeformatter.com/html-formatter.html) – FreeFormatter.com
+* [have i been pwned?](https://haveibeenpwned.com/) – Check if you have an account that has been compromised in a data breach
 * [HTML Beautifier & Formatter](https://www.cleancss.com/html-beautify/) – From _Dan's Tools_
 * [HTML Formatter](https://htmlformatter.com/) – Free online tool to format an ugly HTML code, making it readable and pretty, with the proper indentation.
 * [Mobile-Friendly Test](https://search.google.com/test/mobile-friendly) – Google Search Console
