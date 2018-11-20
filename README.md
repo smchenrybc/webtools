@@ -2,6 +2,7 @@ webtools
 ===
 A curated list of web utilities.
 
+* [BlazeMeter](https://www.blazemeter.com/) – Continuous Performance Testing for Dev Ops
 * [bublé](https://buble.surge.sh/) – the blazing fast, batteries-included ES2015 compiler
 * [DirtyMarkup Formatter](https://www.10bestdesign.com/dirtymarkup/) – HTML, CSS & JavaScript Beautifier
 * [Down for Everyone or Just Me](https://downforeveryoneorjustme.com/) – Check if a website or site is down
@@ -12,6 +13,7 @@ A curated list of web utilities.
 * [have i been pwned?](https://haveibeenpwned.com/) – Check if you have an account that has been compromised in a data breach
 * [HTML Beautifier & Formatter](https://www.cleancss.com/html-beautify/) – From _Dan's Tools_
 * [HTML Formatter](https://htmlformatter.com/) – Free online tool to format an ugly HTML code, making it readable and pretty, with the proper indentation.
+* [Load Impact](https://loadimpact.com/) – Performance testing for Developers
 * [Mobile-Friendly Test](https://search.google.com/test/mobile-friendly) – Google Search Console
 * [Online JavaScript Beautifier](https://beautifier.io/) – Beautify, unpack or deobfuscate JavaScript and HTML
 * [Pingdom Tools](https://tools.pingdom.com/) – Pingdom Website Speed Test
