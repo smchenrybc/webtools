@@ -15,6 +15,7 @@ A curated list of web utilities.
 * [HTML Beautifier & Formatter](https://www.cleancss.com/html-beautify/) – From _Dan's Tools_
 * [HTML Formatter](https://htmlformatter.com/) – Free online tool to format an ugly HTML code, making it readable and pretty, with the proper indentation.
 * [Load Impact](https://loadimpact.com/) – Performance testing for Developers
+* [Loadster](https://loadster.app/) – Load test your site to find its breaking point
 * [Mobile-Friendly Test](https://search.google.com/test/mobile-friendly) – Google Search Console
 * [Online JavaScript Beautifier](https://beautifier.io/) – Beautify, unpack or deobfuscate JavaScript and HTML
 * [Pingdom Tools](https://tools.pingdom.com/) – Pingdom Website Speed Test
