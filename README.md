@@ -9,7 +9,8 @@ A curated list of web utilities.
 * [DNS Checker](https://dnschecker.org/) – DNS Check Propagation Tool
 * [Flaticon](https://www.flaticon.com/) – Free vector icons
 * [Fontello](http://fontello.com/) – icon fonts generator
-* [Free Online HTML Formatter](https://www.freeformatter.com/html-formatter.html) – FreeFormatter.com
+* [FreeFormatter.com](https://www.freeformatter.com/html-formatter.html) – Free Online HTML Formatter
+* [Free Proxy List](https://www.us-proxy.org/) – US Proxy List
 * [have i been pwned?](https://haveibeenpwned.com/) – Check if you have an account that has been compromised in a data breach
 * [HTML Beautifier & Formatter](https://www.cleancss.com/html-beautify/) – From _Dan's Tools_
 * [HTML Formatter](https://htmlformatter.com/) – Free online tool to format an ugly HTML code, making it readable and pretty, with the proper indentation.
