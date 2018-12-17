@@ -21,6 +21,7 @@ A curated list of web utilities.
 * [Pingdom Tools](https://tools.pingdom.com/) – Pingdom Website Speed Test
 * [rollup.js](https://rollupjs.org/repl) – ES6 modules go in...  bundle comes out
 * [ShellCheck](https://www.shellcheck.net/) – shell script analysis tool
+* [Sort Text Lines](https://codebeautify.org/sort-text-lines) – Best Online Tool to Sort Text Lines
 * [Sucuri SiteCheck](https://sitecheck.sucuri.net/) – Free Website Malware Scanner
 * [Subtle Patterns](https://www.toptal.com/designers/subtlepatterns/) – Free textures for your next web project
 * [SVGOMG](https://jakearchibald.github.io/svgomg/) – SVGO's Missing GUI
