@@ -4,6 +4,7 @@ A curated list of web utilities.
 
 * [BlazeMeter](https://www.blazemeter.com/) – Continuous Performance Testing for Dev Ops
 * [bublé](https://buble.surge.sh/) – the blazing fast, batteries-included ES2015 compiler
+* [Coolors.co](https://coolors.co) – The super fast color schemes generator
 * [DirtyMarkup Formatter](https://www.10bestdesign.com/dirtymarkup/) – HTML, CSS & JavaScript Beautifier
 * [Down for Everyone or Just Me](https://downforeveryoneorjustme.com/) – Check if a website or site is down
 * [DNS Checker](https://dnschecker.org/) – DNS Check Propagation Tool
